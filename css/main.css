@@ -11,7 +11,7 @@ h1 {
 
 nav {
   color: #8f2440;
-  font-weight: bolder;
+  font-weight: normal;
   font-style: normal;
 }
 
@@ -52,4 +52,10 @@ footer cite {
 
 a {
   color: #8f2440;
+  text-decoration: underline;
+}
+
+img figcaption {
+  font-family: "PT Sans", sans-serif;
+  font-size: .8rem;
 }
