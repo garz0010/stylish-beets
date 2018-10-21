@@ -5,17 +5,29 @@ html {
 
 h1 {
   color: #3f1622;
-  font-style: normal;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
 }
 
 nav {
-  list-style-type: none;
   color: #8f2440;
   font-weight: bolder;
   font-style: normal;
-
 }
 
+ol a:hover{
+  color: #3f1622;
+}
+
+ol a {
+  text-decoration: none;
+}
+
+ol {
+  list-style: none;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.25rem;
+}
 
 ul {
   list-style: none;
