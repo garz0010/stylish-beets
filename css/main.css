@@ -17,10 +17,12 @@ nav {
 
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
+
 }
 
 ol a {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 ol {
