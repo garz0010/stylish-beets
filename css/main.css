@@ -15,7 +15,7 @@ nav {
   font-style: normal;
 }
 
-ol a:hover{
+ol a:hover {
   color: #3f1622;
 }
 
@@ -30,7 +30,7 @@ ol {
 }
 
 ul {
-  list-style: none;
+  list-style-type: none;
 }
 
 h2 {
@@ -39,7 +39,7 @@ h2 {
 
 .fact {
   color: #222;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
 }
 
@@ -55,4 +55,5 @@ footer cite {
 
 a {
   color: #8f2440;
+  text-decoration: underline;
 }
