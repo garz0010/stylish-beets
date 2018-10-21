@@ -5,25 +5,33 @@ body {
 
 h1 {
   color: #3f1622;
+  font-style: normal;
 }
 
 nav {
   color: #8f2440;
+  font-weight: bold;
+  font-style: normal;
+}
+
+ul {
+  list-style: none;
 }
 
 h2 {
   color: #3f1622;
 }
 
-p + time-datetime {
+figure + p {
   color: #222;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
 }
 
 blockquote {
   color: #222;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
+
   font-size: 1.125rem;
 }
 
