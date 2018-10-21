@@ -61,5 +61,5 @@ figcaption {
 
 img {
   line-height: 1.5rem;
-  width: auto;
+  width: inherit;
 }
