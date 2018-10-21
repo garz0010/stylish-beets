@@ -9,10 +9,11 @@ h1 {
 }
 
 nav {
+  list-style-type: none;
   color: #8f2440;
   font-weight: bolder;
   font-style: normal;
-  list-style-type: none;
+
 }
 
 
