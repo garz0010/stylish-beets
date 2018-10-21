@@ -1,4 +1,4 @@
-body {
+html {
   background-color: #c9b5ab;
   line-height: 1.5;
 }
@@ -10,11 +10,11 @@ h1 {
 
 nav {
   color: #8f2440;
-  font-weight: normal;
+  font-weight: bolder;
   font-style: normal;
   list-style-type: none;
-  text-decoration: none;
 }
+
 
 ul {
   list-style: none;
@@ -24,7 +24,7 @@ h2 {
   color: #3f1622;
 }
 
-figure + p {
+.fact {
   color: #222;
   font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
@@ -33,7 +33,6 @@ figure + p {
 blockquote {
   color: #222;
   font-family: 'PT Serif', serif;
-
   font-size: 1.125rem;
 }
 
@@ -42,5 +41,5 @@ footer cite {
 }
 
 a {
-  color: #8f2440
+  color: #8f2440;
 }
