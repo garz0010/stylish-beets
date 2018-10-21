@@ -1,0 +1,36 @@
+body {
+  background-color: #c9b5ab;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #3f1622;
+}
+
+nav {
+  color: #8f2440;
+}
+
+h2 {
+  color: #3f1622;
+}
+
+p + time-datetime {
+  color: #222;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+blockquote {
+  color: #222;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.125rem;
+}
+
+footer cite {
+  font-size: 0.8rem;
+}
+
+a {
+  color: #8f2440
+}
