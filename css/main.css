@@ -61,4 +61,5 @@ figcaption {
 
 img {
   line-height: 1.5rem;
+  width: auto;
 }
