@@ -10,8 +10,10 @@ h1 {
 
 nav {
   color: #8f2440;
-  font-weight: bold;
+  font-weight: normal;
   font-style: normal;
+  list-style-type: none;
+  text-decoration: none;
 }
 
 ul {
